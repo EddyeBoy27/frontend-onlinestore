@@ -8,6 +8,16 @@ Neste projeto criei uma versão simplificada, sem persistência no banco de dado
   - Visualizar detalhes e avaliações prévias de um produto, bem como criar novas avaliações;
   - E por fim, finalizar a compra dos itens selecionados.
 
+---
+
+## Equipe
+
+- [Douglas Henrique](https://www.linkedin.com/in/douglas-he/)
+
+- [Andrey Tsuzuki](https://www.linkedin.com/in/andrey-tsuzuki/)
+
+---
+
 ## Requisitos do projeto
 
 ### 1. Criar página de listagem de produtos vazia
